@@ -1,0 +1,6 @@
+Just a file to keep notes and ideas
+
+1. Have it show top headlines from sources I select
+2. Have a section to list all news from selected sources of that day or past 24 hours
+3. Be able to search through all news sources I've added to find the info I want
+4. Have a filter option to show news such as "World", "US", "Technology", "Games", "Formula 1"
